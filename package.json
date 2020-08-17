@@ -1,0 +1,61 @@
+{
+  "name": "json-schema-form-builder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@rjsf/bootstrap-4": "^2.3.0",
+    "@rjsf/core": "^2.3.0",
+    "@rjsf/material-ui": "^2.3.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "ace-builds": "^1.4.12",
+    "bootstrap": "^4.5.3",
+    "classnames": "^2.2.6",
+    "flow": "^0.2.3",
+    "node-sass": "^4.14.1",
+    "react": "^16.14.0",
+    "react-ace": "^9.1.3",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.14.0",
+    "react-json-view": "^1.19.1",
+    "react-jsonschema-form": "^1.8.1",
+    "react-jss": "^10.4.0",
+    "react-scripts": "3.4.3",
+    "react-select": "^3.1.0",
+    "react-spinners": "^0.9.0",
+    "react-switch": "^5.0.1",
+    "reactstrap": "^8.6.0",
+    "rjsf-material-ui": "^0.3.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}

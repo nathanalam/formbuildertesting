@@ -1,0 +1,39 @@
+.yamleditor-react-container {
+  .header {
+    background-color: light-gray;
+    border: 1px solid gray;
+    margin: 0;
+    padding: 0.5em;
+    h3 {
+      margin: 0;
+    }
+  }
+  .options {
+    a {
+      cursor: pointer;
+      margin-left: 1em;
+      margin-right: 1em;
+    }
+    background-color: green;
+    display: inline-block;
+    width: 100%;
+    color: white;
+    height: 30px;
+  }
+  .container {
+    padding: 0;
+    .ace_editor {
+      margin: 0;
+    }
+  }
+  .editor {
+    overflow: hidden;
+  }
+  .viewer {
+    overflow: auto;
+    text-align: left;
+  }
+  display: inline-block;
+  overflow: hidden;
+  border: 1px solid green;
+}
